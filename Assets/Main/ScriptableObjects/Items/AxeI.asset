@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8daf1ab2f335c6643aa80592059a6c40, type: 3}
+  m_Name: AxeI
+  m_EditorClassIdentifier: Assembly-CSharp::BaseInventoryItem
+  _id: 242343f6-ccf1-4cc0-a0c4-0a78b17cb433
+  _displayName: Axe
+  _icon: {fileID: 21300000, guid: e45fcd48a88a149fd97ebae9ae3fddb9, type: 3}
+  _itemType: 1
+  _stackable: 0
+  _maxStack: 1
+  _description: Mighty Axe.
+  _sellOfferSO: {fileID: 11400000, guid: 3239a045e2a0540e597057a75c4c686c, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8daf1ab2f335c6643aa80592059a6c40, type: 3}
+  m_Name: Apple
+  m_EditorClassIdentifier: Assembly-CSharp::BaseInventoryItemSO
+  _id: dc94ed39-b6d6-4d95-a0c9-00dfd19c641f
+  _displayName: Apple
+  _icon: {fileID: 21300000, guid: b2fa67a6fe54c4293bfece65ccd48eeb, type: 3}
+  _itemType: 0
+  _stackable: 1
+  _maxStack: 99
+  _description: Apple that can restore health.
+  _sellOfferSO: {fileID: 11400000, guid: dc923443d617b46f2b22534294ff4d72, type: 2}
